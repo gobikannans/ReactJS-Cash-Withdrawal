@@ -1,0 +1,17 @@
+.list-value-container {
+  margin: 10px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.value-container {
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  width: 200px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.value {
+  color: #c4c4c4;
+  font-size: 200;
+}
